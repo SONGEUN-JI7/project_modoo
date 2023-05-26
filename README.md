@@ -61,6 +61,10 @@
 
 https://github.com/SONGEUN-JI7/project_modoo/assets/130841823/d9dc9a12-b4d2-4d44-a13b-3a1f02eb1831
 
-2. Team소개
+  2. Team소개
 ![image](https://github.com/SONGEUN-JI7/project_modoo/assets/130841823/f8ac8611-76ad-423f-97a8-bcd2cdff6741)
 
+  3. 카카오톡 채널
+  
+  https://pf.kakao.com/_xfxnhxgxj
+  
