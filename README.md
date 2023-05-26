@@ -1,4 +1,8 @@
-# project_modoo(모두) (2023/05/10 ~ 05/25 ) 
+![image](https://github.com/SONGEUN-JI7/project_modoo/assets/130841823/047541a1-61c4-44ff-b7cd-c371fd50b103)
+
+# project_modoo(모두) (2023/05/10 ~ 05/25 )
+
+
 ![image](https://github.com/SONGEUN-JI7/project_modoo/assets/130841823/631be858-6454-4797-8ae6-ff2b18fdf1d6)
 
 # 📅 프로젝트 기간
@@ -67,4 +71,8 @@ https://github.com/SONGEUN-JI7/project_modoo/assets/130841823/d9dc9a12-b4d2-4d44
   3. 카카오톡 채널
   
   https://pf.kakao.com/_xfxnhxgxj
+  
+   ![image](https://github.com/SONGEUN-JI7/project_modoo/assets/130841823/5fcd2f36-3b00-4397-99bb-fa4baedaeed8)
+   ![image](https://github.com/SONGEUN-JI7/project_modoo/assets/130841823/f9bf02e6-e0f7-453b-8f7b-2ab4e606dbbb)
+
   
