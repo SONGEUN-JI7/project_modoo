@@ -1,6 +1,6 @@
 ![image](https://github.com/SONGEUN-JI7/project_modoo/assets/130841823/047541a1-61c4-44ff-b7cd-c371fd50b103)
 
-# project_modoo(모두) (2023/05/10 ~ 05/25 )
+ # project_modoo(모두) (2023/05/10 ~ 05/25 )
 
 
 ![image](https://github.com/SONGEUN-JI7/project_modoo/assets/130841823/631be858-6454-4797-8ae6-ff2b18fdf1d6)
@@ -55,6 +55,7 @@
 
 
 # 4. 화면구성
+
 1. 웹구성
 
 
